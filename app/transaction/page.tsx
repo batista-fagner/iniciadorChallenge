@@ -21,6 +21,8 @@ export default function Transacticon() {
       return;
     }
 
+    if(!data) return;
+
     const filterSearch = data.filter((resultList: any) => {
       if (inputValue) {
         return (
