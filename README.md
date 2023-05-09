@@ -20,7 +20,7 @@ Json server - [para mock fake api]
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Sobre a aplicação
+## About the aplication
 
 The project was developed using the following technologies:
 
@@ -28,3 +28,4 @@ The project was developed using the following technologies:
 - TailwindCSS
 - SWR
 - TypeScript
+- Json server - [To hanle with fake api]
