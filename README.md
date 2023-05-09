@@ -15,7 +15,7 @@ Json server - [para mock fake api]
 **The second thing** is to run the mock api that is in the db json folder, for that follow the following commands:
 
 ```bash
- - navigate to the **api/db** folder and run the command: **json-server --watch db.json --port 3004**
+ - navigate to the api/db folder and run the command: json-server --watch db.json --port 3004
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
